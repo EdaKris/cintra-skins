@@ -18,6 +18,4 @@ This repo contains Blender files and `.psd` Skin Templates of the Ultrakill weap
 5. Open Ultrakill and click the US button.
 6. Select the skin folder you just made.
 7. Go to the Sandbox and see if your new skin looks good in-game. Make further adjustments if need be.
-8. Play the game with your stylishly new skin!!! 
-## Why use these? 
-Because there's only so much you can do with the in-game Custom Colors. 
+8. Play the game with your stylishly new skin!!!  
