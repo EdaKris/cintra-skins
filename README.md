@@ -6,7 +6,7 @@ This repo contains Blender files and `.psd` Skin Templates of the Ultrakill weap
 # How to Make Skins with these? (WIP)
 1. Open Blender and your image editing/painting software of choice.
 2. Load the `.blend` file of the weapon you want to make a skin for.
-3. Load `.psd` skin template you want on the model.
+3. Load the respective `.psd` skin template on the model as a texture via the `Shading` tab.
 4. Change the colors of each part to your liking. (Hit save to see your progress on the blender model.)
 5. Paint/Draw/Pase details that will enhance the overall theme of your skin.
 6. Once you're done, export the texture as a `.png` file.
