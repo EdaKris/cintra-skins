@@ -3,6 +3,13 @@
 ![Repo Header](https://github.com/EdaKris/cintra-skins/blob/master/frontend/skin%20template%20wallpaper.png?raw=true "Cintra's Skin Templates")
 
 This repo contains Blender files and `.psd` Skin Templates of the Ultrakill weapons and is meant to serve as a starting point for people who want to get into making their own custom skins for the game. 
+
+---
+
+# [Frequently Asked Questions](https://github.com/EdaKris/cintra-skins/blob/master/frontend/FAQ.md)
+
+---
+
 # How to Make Skins with these?
 1. Open Blender and your image editing/painting software of choice.
 2. Load the `.blend` file of the weapon you want to make a skin for.
