@@ -1,6 +1,6 @@
 # Frequently (not yet) Asked Questions
 
-pls send me some more stuff this is just barebones shit
+pls send me some more stuff this is very much just a super huge WIP
 
 ---
 
